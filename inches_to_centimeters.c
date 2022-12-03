@@ -7,5 +7,3 @@ int main()
     h=2.54*a;
     printf("%0.2f",a,h);
 }
-    
-
